@@ -1,0 +1,29 @@
+{
+    "name": "fjimenezJOB/login_cohete",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "franjimenez",
+            "email": "fjimenezjob@gmail.com"
+
+
+        },
+        {
+            "name": "adrian",
+            "email": "atsvex94@gmail.com"
+        },
+        {
+            "name": "petro-p",
+            "email": "petropobyy@gmail.com"
+        }
+    ],
+    "autoload": {
+        
+        "psr-4": {
+            "models\\":"models/"
+        }
+    },
+
+    "require": {}
+}
